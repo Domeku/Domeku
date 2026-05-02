@@ -1,28 +1,27 @@
 <div align="center">
 
-<!-- HEADER / BANNER STYLE DEATH NOTE -->
-<img src="https://capsule-render.vercel.app/render?type=slice&color=000000&height=200&section=header&text=[DAMIAN%20LORENZO](https://i.pinimg.com/736x/b8/84/b9/b884b92d316e83f19c6499389c9b3675.jpg)&fontSize=70&fontColor=ffffff&animation=fadeIn" width="100%" />
+<!-- HEADER IMAGE (DEATH NOTE) -->
+<img src="https://i.pinimg.com/736x/b8/84/b9/b884b92d316e83f19c6499389c9b3675.jpg" width="67%" style="border-radius: 10px;" />
 
-<br />
+<br /><br />
 
-<!-- DISCORD STYLE CARD SIMULATION -->
+<!-- DISCORD-LIKE PROFILE CARD -->
 <table border="0">
   <tr>
-    <td bgcolor="#121212">
+    <td bgcolor="#0d1117" style="border: 1px solid #30363d; border-radius: 10px;">
       <div align="center">
         <br />
         <img src="https://img.shields.io/badge/-STUDENT-white?style=for-the-badge&logo=github&logoColor=black" />
         <img src="https://img.shields.io/badge/-16_YEARS_OLD-black?style=for-the-badge&logoColor=white" />
         <img src="https://img.shields.io/badge/-DOMINICAN_REPUBLIC-blue?style=for-the-badge&logo=googlemaps&logoColor=white" />
         <br /><br />
-        <font size="5" face="Courier New" color="#ffffff"><b>"I'm a restless mind, constantly seeking something to do to escape boredom."</b></font>
+        <font size="5" face="Courier New" color="#ffffff"><b>"I'm a restless soul, constantly seeking something to do to escape boredom."</b></font>
       </div>
-      <hr />
+      <hr color="#30363d" />
       <p align="left">
         <font face="Verdana" color="#bbbbbb">
-          👋 <b>Hi there!</b> I'm <b>Damian</b>, a student passionate about technology and digital creation. 
-          I’ve been experimenting with <b>Luau</b> in Roblox Studio since I was a kid, and now I'm diving deep into 
-          <b>Game Development</b> with Unity.
+          👋 <b>Hi! I'm Damian.</b> I'm a student deeply interested in <b>Game Development</b>. 
+          I grew up experimenting with <b>Luau</b> in Roblox Studio, and now I'm learning <b>C#</b> and <b>Unity</b> to create my own worlds.
         </font>
       </p>
     </td>
@@ -31,7 +30,7 @@
 
 <br />
 
-<!-- SKILLS SECTION -->
+<!-- TECH STACK SECTION -->
 ### 🛠️ My Arsenal (Tech Stack)
 <div align="center">
   <img src="https://skillicons.dev/icons?i=cs,python,html,css,js,figma,unity,roblox" />
@@ -39,27 +38,30 @@
 
 <br />
 
-<!-- INTERESTS SECTION -->
-<table width="100%">
+<!-- INFO GRID -->
+<table width="100%" border="0">
   <tr>
+    <!-- LEFT COLUMN: HOBBIES -->
     <td width="50%" valign="top">
       <h3>🎮 Gaming & Hobbies</h3>
       <ul>
-        <li><b>Main Games:</b> RDR2 (Fav), Valorant, Roblox, Fortnite.</li>
-        <li><b>Football:</b> Real Madrid Fan ⚪ | Goalkeeper 🧤</li>
+        <li><b>Favorite Games:</b> Red Dead Redemption 2 (Masterpiece), Valorant, Roblox, Fortnite.</li>
+        <li><b>Football:</b> Die-hard Real Madrid fan. I play as a <b>Goalkeeper</b> 🧤.</li>
         <li><b>Music:</b> Bad Bunny, Jhayco, Mora, Mon Laferte, Rauw Alejandro.</li>
       </ul>
     </td>
+    <!-- RIGHT COLUMN: STATS (CORREGIDAS) -->
     <td width="50%" valign="top">
-      <h3>📊 GitHub Stats</h3>
-      <img src="https://github-readme-stats.vercel.app/api?username=Domeku&show_icons=true&theme=dark&hide_border=true&bg_color=00000000&text_color=ffffff&title_color=ffffff" width="100%" />
+<div align="center">
+  <img src="https://rendershd.wordpress.com/wp-content/uploads/2012/02/light-03.png" width="30%" style="border-radius: 10px;" />
+</div>
     </td>
   </tr>
 </table>
 
 <br />
 
-<!-- CONTACT / SOCIALS -->
+<!-- SOCIAL MEDIA BANNERS -->
 ### 🌐 Connect with me
 <div align="center">
   <a href="https://instagram.com/damian26lp">
@@ -73,9 +75,11 @@
 
 <br />
 
-<!-- FOOTER QUOTE -->
+<!-- FOOTER QUOTE STYLE DEATH NOTE -->
 <div align="right">
-  <i>"The real world is much smaller than the world of imagination."</i> 🍎
+  <i>"I'll take a potato chip... AND EAT IT!"</i> 🍎 📔
+  <br />
+  <font color="#30363d">────────────────────────────────────────</font>
 </div>
 
 </div>
