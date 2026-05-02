@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- HEADER / BANNER STYLE DEATH NOTE -->
-<img src="https://capsule-render.vercel.app/render?type=slice&color=000000&height=200&section=header&text=DAMIAN%20LORENZO&fontSize=70&fontColor=ffffff&animation=fadeIn" width="100%" />
+<img src="https://capsule-render.vercel.app/render?type=slice&color=000000&height=200&section=header&text=[DAMIAN%20LORENZO](https://i.pinimg.com/736x/b8/84/b9/b884b92d316e83f19c6499389c9b3675.jpg)&fontSize=70&fontColor=ffffff&animation=fadeIn" width="100%" />
 
 <br />
 
@@ -52,7 +52,7 @@
     </td>
     <td width="50%" valign="top">
       <h3>📊 GitHub Stats</h3>
-      <img src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO_AQUI&show_icons=true&theme=dark&hide_border=true&bg_color=00000000&text_color=ffffff&title_color=ffffff" width="100%" />
+      <img src="https://github-readme-stats.vercel.app/api?username=Domeku&show_icons=true&theme=dark&hide_border=true&bg_color=00000000&text_color=ffffff&title_color=ffffff" width="100%" />
     </td>
   </tr>
 </table>
